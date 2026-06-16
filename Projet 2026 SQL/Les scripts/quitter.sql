@@ -1,0 +1,2 @@
+PROMPT Au revoir!
+Exit;

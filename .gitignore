@@ -1,0 +1,16 @@
+# LaTeX
+*.aux
+*.toc
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.blg
+*.bbl
+*.lof
+*.lot
+*.log
+
+# Oracle / SQL
+*.log
+*.trace
